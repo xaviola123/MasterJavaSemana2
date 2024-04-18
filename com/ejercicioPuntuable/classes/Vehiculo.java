@@ -1,5 +1,7 @@
 package com.ejercicioPuntuable.classes;
 
+import com.ejercicioPuntuable.Interfaces.Conducible;
+
 import java.util.Scanner;
 
 public abstract class Vehiculo implements Conducible {
