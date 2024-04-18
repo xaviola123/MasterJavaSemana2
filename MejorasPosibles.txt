@@ -1,0 +1,10 @@
+Crear una interface que sea Repostable y cuando el deposito este al 10% de su capacidad que 
+nos aconseje parar a repostar y nos pregunte si queresmos repostar.
+de ser asi le indicaremos la cantidad de litros que queremos repostar.
+y segun el tipo de combustible que sea el vehiculo tendra un precio que sacara un metodo que
+llamara FacturarCombustible donde implemente el precio del combustible segun el tipo del 
+enum que lleve ese vehiculo como combustible
+
+Tambien otra mejora que podemos hacer es que el consumo aumente segun la velocidad del
+vehiculo y segun el peso de este o si lleva mas o menos pasajeros. esto aumentara el peso
+y subira el consumo.
